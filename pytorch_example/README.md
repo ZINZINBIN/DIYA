@@ -1,10 +1,8 @@
-# Pytorch를 이용한 Audio Analysis code 분석
-## 목적
-- 기존 tensorflow 기반 코드 -> pytorch로 재구현
-- torch를 이용한 GPU 연산 및 학습 
+# Pytorch Example
+## 설명
+- DIYA time series study
+- Pytorch를 이용한 딥러닝 모델 생성 익히기
 
-## list
-- main.py
-- lib_func.py
-- preprocessing.py
-- etc
+## 구성
+- Pytorch로 시작하는 딥러닝 코드 
+- Deep Learning for Audio analysis를 Pytorch 재구현 코드
